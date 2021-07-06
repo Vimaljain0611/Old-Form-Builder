@@ -1,26 +1,16 @@
-
-th td{
-    width: 30%;
-}
-.th-btn{
-    width: 20%;
-}
-
-.dyn-input{
-    width: 50%;
-}
-.dyn-label{
-    /* width: 18%; */
-    /* text-align: -webkit-center; */
-}
-.input-id{
-    /* width: 13%; */
-    text-align: -webkit-center;
-}
-.form-row{
+#formDiv{
     background: #d8d8d8;
-    margin-top: 24px;
-    margin-bottom: 24px;
-    padding: 3%;
-    border-radius: 5px;
+    margin: 20px;
+    padding: 11px;
+}
+
+.row{
+    padding: 0px 40px;
+    margin-bottom: 7px;
+}
+.btn{
+    width: 100%;
+}
+label{
+    margin-left: 5px;
 }
